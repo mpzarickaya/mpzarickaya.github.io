@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
+    <title>mpzarickaya</title>
     <link>https://example.com/authors/</link>
       <atom:link href="https://example.com/authors/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
+    <description>mpzarickaya</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 25 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Academic</title>
+      <url>https://example.com/media/icon_hub3b249dfad3a308fa89cffd814cd99ef_7826_512x512_fill_lanczos_center_3.png</url>
+      <title>mpzarickaya</title>
       <link>https://example.com/authors/</link>
     </image>
     
