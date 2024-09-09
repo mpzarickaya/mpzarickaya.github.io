@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Demo | mpzarickaya</title>
+    <link>https://mpzarickaya.github.io/en/category/demo/</link>
+      <atom:link href="https://mpzarickaya.github.io/en/category/demo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Demo</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 25 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mpzarickaya.github.io/media/icon_hub3b249dfad3a308fa89cffd814cd99ef_7826_512x512_fill_lanczos_center_3.png</url>
+      <title>Demo</title>
+      <link>https://mpzarickaya.github.io/en/category/demo/</link>
+    </image>
+    
+    <item>
+      <title>What happened last week?</title>
+      <link>https://mpzarickaya.github.io/en/post/prevweek/</link>
+      <pubDate>Sun, 25 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://mpzarickaya.github.io/en/post/prevweek/</guid>
+      <description>&lt;h2 id=&#34;last-days-of-vacation&#34;&gt;Last days of vacation&lt;/h2&gt;
+&lt;p&gt;Last week, I enjoyed the last days of vacation before the new school year begins. Despite the approaching school semester, I decided to dedicate this time to not only relaxing, but also preparing for my upcoming classes.&lt;/p&gt;
+&lt;h2 id=&#34;new-technologies&#34;&gt;New Technologies&lt;/h2&gt;
+&lt;p&gt;I spent most of the week on the computer learning about new technologies. I decided to refresh my knowledge of &lt;code&gt;Python&lt;/code&gt; and experimented with a couple of small projects. Also started learning the basics of &lt;code&gt;Flask&lt;/code&gt; - I want to try to create a small web application in the new semester.&lt;/p&gt;
+&lt;h2 id=&#34;vacation-with-friends&#34;&gt;Vacation with friends&lt;/h2&gt;
+&lt;p&gt;But, of course, I didn&amp;rsquo;t forget about a full vacation. I met up with some friends and we spent a couple of days in nature, enjoying the last warm days.&lt;/p&gt;
+&lt;h2 id=&#34;ready-for-the-new-school-year&#34;&gt;Ready for the new school year&lt;/h2&gt;
+&lt;p&gt;Now, rested and full of energy, I am ready for the new school year. Although I am a little sad that the vacation is over, I am optimistic about the future - there is so much new knowledge and interesting tasks ahead!&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Picturesque&#34; srcset=&#34;
+               /en/post/prevweek/1_hu434c887391e7a45c5c0a605a5f23ee86_67909_1b11aed03f9e9f0d4bbe90bb11bd8882.webp 400w,
+               /en/post/prevweek/1_hu434c887391e7a45c5c0a605a5f23ee86_67909_8033ad86af132b443326fb72ad26a581.webp 760w,
+               /en/post/prevweek/1_hu434c887391e7a45c5c0a605a5f23ee86_67909_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://mpzarickaya.github.io/en/post/prevweek/1_hu434c887391e7a45c5c0a605a5f23ee86_67909_1b11aed03f9e9f0d4bbe90bb11bd8882.webp&#34;
+               width=&#34;570&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Git Version Control</title>
+      <link>https://mpzarickaya.github.io/en/post/github/</link>
+      <pubDate>Sat, 13 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://mpzarickaya.github.io/en/post/github/</guid>
+      <description>&lt;h2 id=&#34;version-control-with-git-the-foundation-of-efficient-development&#34;&gt;Version control with Git: the foundation of efficient development&lt;/h2&gt;
+&lt;p&gt;In the world of software development, version control is one of the key processes that helps you manage code changes, work as a team, and keep your project up to date. Git is one of the most popular tools for version control, and its use has become an industry standard.&lt;/p&gt;
+&lt;h3 id=&#34;why-version-control&#34;&gt;Why version control?&lt;/h3&gt;
+&lt;p&gt;Version control allows you to keep track of every change to your project, whether it&amp;rsquo;s adding new functionality, fixing a bug, or just doing a little code refactoring. With Git, you can go back to any previous version of your project, compare changes, roll back in case of errors, and work on multiple versions of your project in parallel.&lt;/p&gt;
+&lt;h3 id=&#34;gits-main-features&#34;&gt;Git&amp;rsquo;s main features&lt;/h3&gt;
+&lt;p&gt;Git provides a wide range of features, including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Creating and working with branches. Branches allow you to isolate work on individual tasks, which is especially useful in team development.&lt;/li&gt;
+&lt;li&gt;Merging changes. When work on a branch is complete, you can easily merge it with the main branch (master or main) without losing any data.&lt;/li&gt;
+&lt;li&gt;View change history. Git keeps a detailed history of every commit, so you can track who made what changes to your code, when, and how.&lt;/li&gt;
+&lt;li&gt;Teamwork. Git allows multiple developers to work on the same project, synchronizing changes and resolving code conflicts.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;why-is-git-so-popular&#34;&gt;Why is Git so popular?&lt;/h3&gt;
+&lt;p&gt;Git has gained popularity because of its flexibility, speed, and ability to work both locally and with remote repositories. It is also supported by many hosting services such as GitHub, GitLab, and Bitbucket, which offer additional features for teamwork, automation, and integration with other tools.&lt;/p&gt;
+&lt;h3 id=&#34;summarizing&#34;&gt;Summarizing&lt;/h3&gt;
+&lt;p&gt;Mastering Git is a must-have skill for any developer. This tool not only simplifies project management, but also allows you to organize effective teamwork, minimizing the risk of data loss and simplifying the development process. You can start using Git today, and the sooner you do, the sooner you will be able to experience all its benefits.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Git&#34; srcset=&#34;
+               /en/post/github/1_hua372e44fcd1e015be8307a27dbcf667c_28638_a7493e5ecc96c87b18fd4b9bca0ad7a5.webp 400w,
+               /en/post/github/1_hua372e44fcd1e015be8307a27dbcf667c_28638_7b63e74032351b4ae239db3bbd0bdb0e.webp 760w,
+               /en/post/github/1_hua372e44fcd1e015be8307a27dbcf667c_28638_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
+               src=&#34;https://mpzarickaya.github.io/en/post/github/1_hua372e44fcd1e015be8307a27dbcf667c_28638_a7493e5ecc96c87b18fd4b9bca0ad7a5.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;428&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

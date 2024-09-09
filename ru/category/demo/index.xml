@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Demo | mpzarickaya</title>
-    <link>https://example.com/ru/category/demo/</link>
-      <atom:link href="https://example.com/ru/category/demo/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mpzarickaya.github.io/ru/category/demo/</link>
+      <atom:link href="https://mpzarickaya.github.io/ru/category/demo/index.xml" rel="self" type="application/rss+xml" />
     <description>Demo</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sun, 25 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hub3b249dfad3a308fa89cffd814cd99ef_7826_512x512_fill_lanczos_center_3.png</url>
+      <url>https://mpzarickaya.github.io/media/icon_hub3b249dfad3a308fa89cffd814cd99ef_7826_512x512_fill_lanczos_center_3.png</url>
       <title>Demo</title>
-      <link>https://example.com/ru/category/demo/</link>
+      <link>https://mpzarickaya.github.io/ru/category/demo/</link>
     </image>
     
     <item>
       <title>Что было на прошлой неделе?</title>
-      <link>https://example.com/ru/post/prevweek/</link>
+      <link>https://mpzarickaya.github.io/ru/post/prevweek/</link>
       <pubDate>Sun, 25 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/prevweek/</guid>
+      <guid>https://mpzarickaya.github.io/ru/post/prevweek/</guid>
       <description>&lt;h2 id=&#34;последние-дни-каникул&#34;&gt;Последние дни каникул&lt;/h2&gt;
 &lt;p&gt;На прошлой неделе я наслаждалась последними днями каникул перед началом нового учебного года. Несмотря на приближающийся учебный семестр, я решила посвятить это время не только отдыху, но и подготовке к предстоящим занятиям.&lt;/p&gt;
 &lt;h2 id=&#34;новые-технологии&#34;&gt;Новые технологии&lt;/h2&gt;
@@ -47,7 +47,7 @@
                /ru/post/prevweek/1_hu434c887391e7a45c5c0a605a5f23ee86_67909_ffb203c26051fcf9bc147c7f36128188.webp 400w,
                /ru/post/prevweek/1_hu434c887391e7a45c5c0a605a5f23ee86_67909_8033ad86af132b443326fb72ad26a581.webp 760w,
                /ru/post/prevweek/1_hu434c887391e7a45c5c0a605a5f23ee86_67909_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/ru/post/prevweek/1_hu434c887391e7a45c5c0a605a5f23ee86_67909_ffb203c26051fcf9bc147c7f36128188.webp&#34;
+               src=&#34;https://mpzarickaya.github.io/ru/post/prevweek/1_hu434c887391e7a45c5c0a605a5f23ee86_67909_ffb203c26051fcf9bc147c7f36128188.webp&#34;
                width=&#34;570&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -58,9 +58,9 @@
     
     <item>
       <title>Управление версиями Git</title>
-      <link>https://example.com/ru/post/github/</link>
+      <link>https://mpzarickaya.github.io/ru/post/github/</link>
       <pubDate>Sat, 13 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/github/</guid>
+      <guid>https://mpzarickaya.github.io/ru/post/github/</guid>
       <description>&lt;h2 id=&#34;контроль-версий-с-помощью-git-основа-эффективной-разработки&#34;&gt;Контроль версий с помощью Git: основа эффективной разработки&lt;/h2&gt;
 &lt;p&gt;В мире разработки программного обеспечения контроль версий — это один из ключевых процессов, который помогает управлять изменениями в коде, работать в команде и поддерживать проект в актуальном состоянии. Git — это один из самых популярных инструментов для контроля версий, и его использование стало стандартом в индустрии.&lt;/p&gt;
 &lt;h3 id=&#34;зачем-нужен-контроль-версий&#34;&gt;Зачем нужен контроль версий?&lt;/h3&gt;
@@ -99,7 +99,7 @@
                /ru/post/github/1_hua372e44fcd1e015be8307a27dbcf667c_28638_5f335894c7753ba82673163c68ada4e2.webp 400w,
                /ru/post/github/1_hua372e44fcd1e015be8307a27dbcf667c_28638_7b63e74032351b4ae239db3bbd0bdb0e.webp 760w,
                /ru/post/github/1_hua372e44fcd1e015be8307a27dbcf667c_28638_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/ru/post/github/1_hua372e44fcd1e015be8307a27dbcf667c_28638_5f335894c7753ba82673163c68ada4e2.webp&#34;
+               src=&#34;https://mpzarickaya.github.io/ru/post/github/1_hua372e44fcd1e015be8307a27dbcf667c_28638_5f335894c7753ba82673163c68ada4e2.webp&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

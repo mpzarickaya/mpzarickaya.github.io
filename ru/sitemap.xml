@@ -2,340 +2,340 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/ru/talk/example-talk/</loc>
+    <loc>https://mpzarickaya.github.io/ru/talk/example-talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/talk/example-talk/"
+                href="https://mpzarickaya.github.io/en/talk/example-talk/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/talk/example-talk/"
+                href="https://mpzarickaya.github.io/ru/talk/example-talk/"
                 />
   </url><url>
-    <loc>https://example.com/ru/event/</loc>
+    <loc>https://mpzarickaya.github.io/ru/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/event/"
+                href="https://mpzarickaya.github.io/en/event/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/event/"
+                href="https://mpzarickaya.github.io/ru/event/"
                 />
   </url><url>
-    <loc>https://example.com/ru/</loc>
+    <loc>https://mpzarickaya.github.io/ru/</loc>
     <lastmod>2024-09-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/"
+                href="https://mpzarickaya.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/"
+                href="https://mpzarickaya.github.io/ru/"
                 />
   </url><url>
-    <loc>https://example.com/ru/authors/</loc>
+    <loc>https://mpzarickaya.github.io/ru/authors/</loc>
     <lastmod>2024-08-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/authors/"
+                href="https://mpzarickaya.github.io/en/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/authors/"
+                href="https://mpzarickaya.github.io/ru/authors/"
                 />
   </url><url>
-    <loc>https://example.com/ru/tag/academic/</loc>
+    <loc>https://mpzarickaya.github.io/ru/tag/academic/</loc>
     <lastmod>2024-08-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/tag/academic/"
+                href="https://mpzarickaya.github.io/en/tag/academic/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/tag/academic/"
+                href="https://mpzarickaya.github.io/ru/tag/academic/"
                 />
   </url><url>
-    <loc>https://example.com/ru/categories/</loc>
+    <loc>https://mpzarickaya.github.io/ru/categories/</loc>
     <lastmod>2024-08-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/categories/"
+                href="https://mpzarickaya.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/categories/"
+                href="https://mpzarickaya.github.io/ru/categories/"
                 />
   </url><url>
-    <loc>https://example.com/ru/category/demo/</loc>
+    <loc>https://mpzarickaya.github.io/ru/category/demo/</loc>
     <lastmod>2024-08-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/category/demo/"
+                href="https://mpzarickaya.github.io/en/category/demo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/category/demo/"
+                href="https://mpzarickaya.github.io/ru/category/demo/"
                 />
   </url><url>
-    <loc>https://example.com/ru/post/</loc>
+    <loc>https://mpzarickaya.github.io/ru/post/</loc>
     <lastmod>2024-08-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/post/"
+                href="https://mpzarickaya.github.io/en/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/post/"
+                href="https://mpzarickaya.github.io/ru/post/"
                 />
   </url><url>
-    <loc>https://example.com/ru/tags/</loc>
+    <loc>https://mpzarickaya.github.io/ru/tags/</loc>
     <lastmod>2024-08-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/tags/"
+                href="https://mpzarickaya.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/tags/"
+                href="https://mpzarickaya.github.io/ru/tags/"
                 />
   </url><url>
-    <loc>https://example.com/ru/authors/admin/</loc>
+    <loc>https://mpzarickaya.github.io/ru/authors/admin/</loc>
     <lastmod>2024-08-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/authors/admin/"
+                href="https://mpzarickaya.github.io/en/authors/admin/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/authors/admin/"
+                href="https://mpzarickaya.github.io/ru/authors/admin/"
                 />
   </url><url>
-    <loc>https://example.com/ru/post/prevweek/</loc>
+    <loc>https://mpzarickaya.github.io/ru/post/prevweek/</loc>
     <lastmod>2024-08-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/post/prevweek/"
+                href="https://mpzarickaya.github.io/en/post/prevweek/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/post/prevweek/"
+                href="https://mpzarickaya.github.io/ru/post/prevweek/"
                 />
   </url><url>
-    <loc>https://example.com/ru/post/github/</loc>
+    <loc>https://mpzarickaya.github.io/ru/post/github/</loc>
     <lastmod>2024-08-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/post/github/"
+                href="https://mpzarickaya.github.io/en/post/github/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/post/github/"
+                href="https://mpzarickaya.github.io/ru/post/github/"
                 />
   </url><url>
-    <loc>https://example.com/ru/publication/preprint/</loc>
+    <loc>https://mpzarickaya.github.io/ru/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/publication/preprint/"
+                href="https://mpzarickaya.github.io/en/publication/preprint/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/publication/preprint/"
+                href="https://mpzarickaya.github.io/ru/publication/preprint/"
                 />
   </url><url>
-    <loc>https://example.com/ru/publication-type/article/</loc>
+    <loc>https://mpzarickaya.github.io/ru/publication-type/article/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/publication-type/article/"
+                href="https://mpzarickaya.github.io/en/publication-type/article/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/publication-type/article/"
+                href="https://mpzarickaya.github.io/ru/publication-type/article/"
                 />
   </url><url>
-    <loc>https://example.com/ru/publication_types/</loc>
+    <loc>https://mpzarickaya.github.io/ru/publication_types/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/publication_types/"
+                href="https://mpzarickaya.github.io/en/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/publication_types/"
+                href="https://mpzarickaya.github.io/ru/publication_types/"
                 />
   </url><url>
-    <loc>https://example.com/ru/publication/</loc>
+    <loc>https://mpzarickaya.github.io/ru/publication/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/publication/"
+                href="https://mpzarickaya.github.io/en/publication/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/publication/"
+                href="https://mpzarickaya.github.io/ru/publication/"
                 />
   </url><url>
-    <loc>https://example.com/ru/tag/source-themes/</loc>
+    <loc>https://mpzarickaya.github.io/ru/tag/source-themes/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/tag/source-themes/"
+                href="https://mpzarickaya.github.io/en/tag/source-themes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/tag/source-themes/"
+                href="https://mpzarickaya.github.io/ru/tag/source-themes/"
                 />
   </url><url>
-    <loc>https://example.com/ru/slides/</loc>
+    <loc>https://mpzarickaya.github.io/ru/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/slides/"
+                href="https://mpzarickaya.github.io/en/slides/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/slides/"
+                href="https://mpzarickaya.github.io/ru/slides/"
                 />
   </url><url>
-    <loc>https://example.com/ru/slides/example/</loc>
+    <loc>https://mpzarickaya.github.io/ru/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/slides/example/"
+                href="https://mpzarickaya.github.io/en/slides/example/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/slides/example/"
+                href="https://mpzarickaya.github.io/ru/slides/example/"
                 />
   </url><url>
-    <loc>https://example.com/ru/publication/journal-article/</loc>
+    <loc>https://mpzarickaya.github.io/ru/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/publication/journal-article/"
+                href="https://mpzarickaya.github.io/en/publication/journal-article/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/publication/journal-article/"
+                href="https://mpzarickaya.github.io/ru/publication/journal-article/"
                 />
   </url><url>
-    <loc>https://example.com/ru/publication-type/article-journal/</loc>
+    <loc>https://mpzarickaya.github.io/ru/publication-type/article-journal/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/publication-type/article-journal/"
+                href="https://mpzarickaya.github.io/en/publication-type/article-journal/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/publication-type/article-journal/"
+                href="https://mpzarickaya.github.io/ru/publication-type/article-journal/"
                 />
   </url><url>
-    <loc>https://example.com/ru/authors/robert-ford/</loc>
+    <loc>https://mpzarickaya.github.io/ru/authors/robert-ford/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/authors/robert-ford/"
+                href="https://mpzarickaya.github.io/en/authors/robert-ford/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/authors/robert-ford/"
+                href="https://mpzarickaya.github.io/ru/authors/robert-ford/"
                 />
   </url><url>
-    <loc>https://example.com/ru/publication/conference-paper/</loc>
+    <loc>https://mpzarickaya.github.io/ru/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/publication/conference-paper/"
+                href="https://mpzarickaya.github.io/en/publication/conference-paper/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/publication/conference-paper/"
+                href="https://mpzarickaya.github.io/ru/publication/conference-paper/"
                 />
   </url><url>
-    <loc>https://example.com/ru/publication-type/paper-conference/</loc>
+    <loc>https://mpzarickaya.github.io/ru/publication-type/paper-conference/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://example.com/publication-type/paper-conference/"
+                href="https://mpzarickaya.github.io/en/publication-type/paper-conference/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru-ru"
-                href="https://example.com/ru/publication-type/paper-conference/"
+                href="https://mpzarickaya.github.io/ru/publication-type/paper-conference/"
                 />
   </url>
 </urlset>
