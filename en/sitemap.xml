@@ -114,6 +114,20 @@
                 href="https://mpzarickaya.github.io/en/post/"
                 />
   </url><url>
+    <loc>https://mpzarickaya.github.io/en/post/post3/</loc>
+    <lastmod>2024-08-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://mpzarickaya.github.io/ru/post/post3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://mpzarickaya.github.io/en/post/post3/"
+                />
+  </url><url>
     <loc>https://mpzarickaya.github.io/en/tags/</loc>
     <lastmod>2024-08-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
